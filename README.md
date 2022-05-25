@@ -48,12 +48,6 @@ You can contribute to Hey Linda by beta testing, recording meditations, or submi
 If you plan to make a contribution please open an issue first to discuss the
 bug or feature. You can also join us on Slack to discuss ideas.
 
-## Join Us On
-
-<a href="https://join.slack.com/t/heylinda/shared_invite/zt-to976i3o-qPBT6C~pU0QjyMeMgvMVYQ"><img src="docs/images/logos/slack.gif" height="50px"/></a>
-<a href="https://www.facebook.com/heylindabot"><img src="docs/images/logos/facebook.png" height="50px"/></a>
-<a href="https://twitter.com/heylindahq"><img src="docs/images/logos/twitter.png" height="50px"/></a>
-
 ## Credits
 
 ### Github Contributors
